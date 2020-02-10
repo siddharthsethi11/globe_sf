@@ -115,11 +115,11 @@
 		</globalVariable>
 		<globalVariable>
 			<name>//SalesforceAPI//salesforce</name>
-			<value>%%salesforce%%</value>
+			<value>salesforce</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
-			<isOverride>true</isOverride>
+			<isOverride>false</isOverride>
 		</globalVariable>
 		<globalVariable>
 			<name>//SalesforceAPI//sf_password</name>
